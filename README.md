@@ -26,7 +26,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/riveraaj/Interior-Consultant/main/asset/img/Untitled.png)
 
 - You can see the page in the following link: https://riveraaj.github.io/Interior-Consultant/
 - In this small project I was able to improve good practices in CSS3, layout and structure in HTML5.
